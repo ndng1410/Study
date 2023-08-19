@@ -1,0 +1,28 @@
+mã hamming nhận được là 110010100010, biết đoạn mã này lỗi tại 1 bit. hãy sửa lỗi đó và xác nhận lại mã nhị phân của ký tự bên gửi đã gửi và ký tự đã gửi là ký tự nào ?
+
+1100 1010 0010
+
+1. ok
+2. sai
+4. ok
+8. sai
+
+bit lỗi = bit 10
+
+sửa lỗi : 1100 1010 0110
+				0  101  0110 => đáp án: 01010110,V
+
+
+1001 1011 0111
+xx_x ___x ____
+
+1. ok
+2. sai
+4. ok
+8. ok
+
+bit lỗi = bit 2
+
+sửa lỗi: 1101 1011 0111
+			0101 0111 => W
+    
